@@ -1,0 +1,15 @@
+{
+
+    "appclips": {
+        "apps": ["**********.com.project.example.Clip"]
+    },
+    "applinks": {
+        "apps": ["**********.com.project.example"],
+        "details": [
+          {
+            "appID": "**********.com.project.example",
+            "paths": [ "/event/*", "/ticket?v=*" ]
+          }
+        ]
+    }
+}
